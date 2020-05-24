@@ -23,6 +23,3 @@
 
 ### 機能一覧
 https://docs.google.com/spreadsheets/d/1bA42QbMgT3bWOHPbRyIiFXhN-48xaL2RX58cjw6TnaI/edit#gid=0
-
-### 画面遷移図
-https://app.diagrams.net/#G1BL9KkDaAdaKkfqPNwbug301QAI17UJyd
